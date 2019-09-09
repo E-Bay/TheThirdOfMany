@@ -1,7 +1,23 @@
 body {
     font-family: Arial, Verdana, sans-serif;
-    background-color: floralwhite;}
+    background-color: antiquewhite;}
 h1, h2, h3 {
-    background-color: darkgrey;
-    color: aliceblue;}
+    background-color: floralwhite;
+    color: darkgray;}
 li {color: black; }
+td {
+background-color: darkgoldenrod;
+padding: 15px;
+border: 2px solid #000000}
+th{background-color: darkgray;
+padding: 5px;
+border: 2px solid}
+ol {
+    list-style: initial;
+width: 500px;}
+ul {
+    list-style: inside circle;
+width: 700px;}
+li{
+    color: darkred;
+    margin: 10px 0px 0px 0px}

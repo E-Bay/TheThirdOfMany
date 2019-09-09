@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: floralwhite;}
+h1, h2 {
+    background-color: black;
+    color: goldenrod;}
+p {
+    color: salmon}
+ol {
+    list-style: initial;
+width: 500px;}
+ul {
+    list-style: inside circle;
+width: 700px;}
+li {
+    color: salmon;
+margin: 10px 0px 0px 0px;}
